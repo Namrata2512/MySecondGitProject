@@ -11,6 +11,7 @@ a1.add(25);
 a1.add("Java");
 a1.add(null);
 System.out.println(a1);
+System.out.println("demo test");
 	}
 
 }
